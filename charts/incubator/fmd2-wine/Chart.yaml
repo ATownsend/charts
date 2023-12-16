@@ -1,7 +1,7 @@
 kubeVersion: '>=1.24.0-0'
 apiVersion: v2
 name: fmd2-wine
-version: 3.0.3
+version: 3.0.4
 appVersion: latest
 description: '**FMD2:** This is an active fork of the Free Manga Downloader which
   is a free open source application written in Object Pascal for managing and downloading
@@ -10,9 +10,9 @@ home: https://truecharts.org/charts/incubator/fmd2-wine
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/fmd2-wine.png
 deprecated: false
 sources:
-- https://hub.docker.com/r/banhcanh/docker-fmd2
 - https://github.com/Banh-Canh/docker-FMD2
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fmd2-wine
+- https://hub.docker.com/r/banhcanh/docker-fmd2
 maintainers:
 - name: TrueCharts
   email: info@truecharts.org
