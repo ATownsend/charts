@@ -1,8 +1,8 @@
 kubeVersion: '>=1.24.0-0'
 apiVersion: v2
 name: strapi
-version: 10.0.22
-appVersion: 4.15.4-alpine
+version: 10.0.23
+appVersion: 4.15.5-alpine
 description: Open-source headless CMS. JavaScript, fully customizable and developer-first.
 home: https://truecharts.org/charts/stable/strapi
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png
